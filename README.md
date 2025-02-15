@@ -1,6 +1,6 @@
 # voidfuck
 
-`OULL NE XATA VOHK, MARA LOHK?`
+`VOULL NE XATA VOK, MARA LOHK?`
 
 Yet another rehash of the popular [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck),
 but this time using Voidtongue from Warframe; specifically the [Requiems](https://wiki.warframe.com/w/Requiem_Mods).
