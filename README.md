@@ -10,4 +10,4 @@ but this time using Voidtongue from Warframe; specifically the [Requiems](https:
 1. Install [Rust with Cargo](https://www.rust-lang.org/tools/install).
 2. Run `cargo install --path .`.
 3. You can now run voidfuck with `voidfuck [file]`.
-> e.g.: run the included file: `voidfuck examples/helloworld.vf`.
+> e.g.: run the included [example](https://github.com/jack-avery/voidfuck/blob/main/examples/helloworld.vf): `voidfuck examples/helloworld.vf`.
